@@ -14,7 +14,7 @@ Project to test Serenity with Selenium and Cucumber
 
 
 * To verify that all is up to date with dependencies and test compilation, execute the gradle task: _testClasses_
-* Before execute the tests, execute the gradle task: _downloadChromeDriverServer_
+* Before execute the tests, execute the gradle task: **_downloadChromeDriverServer_**
 
 ## Before start coding
 
